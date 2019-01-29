@@ -6,8 +6,6 @@ React Native - Login Form
 - Foect - Its simple and not too complex when it comes to validation thats why I use this one.
 - Prop-types - Helps me define types easily and which props are required, I can easily open up a component and check which props are required and what type they should be.
 
-PropTypes defines type and which props are required. This benefits the future you and other developer using your component in two ways:
-
 
 # Styling
 - Extended StyleSheets for React Native  
