@@ -35,7 +35,7 @@ const LoginForm = (props) => {
   return (
     <View>
       <Foect.Form
-        defaultValue={{ email: 'adasdasd' }}
+        defaultValue={{ email: null, password: null }}
         onValidSubmit={(model) => {
           validate(model);
         }}
@@ -106,7 +106,6 @@ const LoginForm = (props) => {
 LoginForm.propTypes = {
   checked: PropTypes.func,
   checkedStatus: PropTypes.bool,
-  // svdEmail: PropTypes.string,
   dfEmail: PropTypes.string,
   dfPass: PropTypes.string,
 };

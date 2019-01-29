@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Login Form",
-    "slug": "login-form",
+    "name": "Login Form Vananaz",
+    "slug": "login-form-vananaz",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
@@ -24,6 +24,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "React Native Form Login Validation",
+    "githubUrl": "https://github.com/unknownerror321/vananaz-exam.git"
   }
 }
