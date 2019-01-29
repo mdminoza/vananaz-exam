@@ -16,7 +16,7 @@ class Home extends Component {
 
   render() {
     const {
-      checked, svdEmail, dfEmail, dfPass,
+      checked, dfEmail, dfPass,
     } = this.state;
     return (
       <Container>
